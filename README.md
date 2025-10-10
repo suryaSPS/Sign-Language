@@ -1,5 +1,5 @@
 # Sign Language Detection Project Report
-![alt text](https://github.com/suryaSPS/Sign-Language-Detection/blob/main/images/dataset_classes.png)
+![alt text](https://github.com/suryaSPS/Sign-Language/blob/main/images/dataset_classes.png)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Problem Statement](#problem-statement)
